@@ -1,8 +1,5 @@
 public class Code {
     public static void main(String args[]){
-        int x = 12;
-        int y = 20;
-
-        System.out.println(x + y);
+        System.out.println(Math.max(5,10));
     }
 }
